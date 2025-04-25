@@ -1,3 +1,3 @@
 Basic sockets realization on Java
 
-Client <-> Server with echo input
+Server accept requests from a client and responds with simple echo of a message
